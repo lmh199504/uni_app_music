@@ -1,0 +1,40 @@
+
+.phone-main{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	        flex-direction: column;
+	overflow: hidden;
+}
+.phoneDirectory{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: row;
+	        flex-direction: row;
+}
+.phone-main-search{
+	background-color: #fff;
+	padding: 10rpx 20rpx;
+	border-bottom: 1px solid #e5e5e5;
+}
+.phone-main-input{
+	font-size:28rpx;
+	border: 1px solid #e5e5e5;
+	border-radius: 3px;
+	padding: 10rpx 20rpx 10rpx 20rpx;
+}
+.alphabet{
+	position: fixed;
+	right: 0;
+	top:20px;
+	/* width: 10px; */
+	background:#F7F7F7;
+	border-radius: 10px;
+}
+

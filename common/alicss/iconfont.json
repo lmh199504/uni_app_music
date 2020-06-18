@@ -1,0 +1,198 @@
+{
+  "id": "1300007",
+  "name": "no name",
+  "font_family": "iconfont",
+  "css_prefix_text": "myicon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1621626",
+      "name": "喜欢",
+      "font_class": "xihuan",
+      "unicode": "e630",
+      "unicode_decimal": 58928
+    },
+    {
+      "icon_id": "7587974",
+      "name": "音乐",
+      "font_class": "yinle",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "1106061",
+      "name": "下一首",
+      "font_class": "xiayishou",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "1106168",
+      "name": "上一首",
+      "font_class": "shangyishou",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "7532887",
+      "name": "暂停",
+      "font_class": "zanting",
+      "unicode": "e667",
+      "unicode_decimal": 58983
+    },
+    {
+      "icon_id": "9512543",
+      "name": "下载",
+      "font_class": "download",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    },
+    {
+      "icon_id": "13604156",
+      "name": "播放",
+      "font_class": "bofang",
+      "unicode": "e635",
+      "unicode_decimal": 58933
+    },
+    {
+      "icon_id": "7938340",
+      "name": "方向圆-向上",
+      "font_class": "fangxiangyuan-xiangshang",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "7938341",
+      "name": "方向圆-向下",
+      "font_class": "fangxiangyuan-xiangxia",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "7938342",
+      "name": "方向圆-向右",
+      "font_class": "fangxiangyuan-xiangyou",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    },
+    {
+      "icon_id": "7938343",
+      "name": "方向圆-向左",
+      "font_class": "fangxiangyuan-xiangzuo",
+      "unicode": "e619",
+      "unicode_decimal": 58905
+    },
+    {
+      "icon_id": "1526259",
+      "name": "聊天",
+      "font_class": "liaotian",
+      "unicode": "e64c",
+      "unicode_decimal": 58956
+    },
+    {
+      "icon_id": "2019065",
+      "name": "我",
+      "font_class": "wo",
+      "unicode": "e7ab",
+      "unicode_decimal": 59307
+    },
+    {
+      "icon_id": "2551777",
+      "name": "聊天",
+      "font_class": "liaotian1",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "5121517",
+      "name": "通讯录",
+      "font_class": "tongxunlu",
+      "unicode": "e649",
+      "unicode_decimal": 58953
+    },
+    {
+      "icon_id": "7100392",
+      "name": "发现",
+      "font_class": "faxian",
+      "unicode": "e726",
+      "unicode_decimal": 59174
+    },
+    {
+      "icon_id": "2380649",
+      "name": "排行",
+      "font_class": "paihang",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "5666416",
+      "name": "下载",
+      "font_class": "xiazai",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "11757077",
+      "name": "客服",
+      "font_class": "kefu",
+      "unicode": "e73a",
+      "unicode_decimal": 59194
+    },
+    {
+      "icon_id": "8328421",
+      "name": "黑名单",
+      "font_class": "heimingdan",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "774369",
+      "name": "公告",
+      "font_class": "gonggao",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "2321381",
+      "name": "优惠券",
+      "font_class": "youhuiquan",
+      "unicode": "e62a",
+      "unicode_decimal": 58922
+    },
+    {
+      "icon_id": "3588489",
+      "name": "商品",
+      "font_class": "shangpin",
+      "unicode": "e6e2",
+      "unicode_decimal": 59106
+    },
+    {
+      "icon_id": "933709",
+      "name": "数据",
+      "font_class": "shuju",
+      "unicode": "e62e",
+      "unicode_decimal": 58926
+    },
+    {
+      "icon_id": "1854597",
+      "name": "符号-锁",
+      "font_class": "suo",
+      "unicode": "e6ac",
+      "unicode_decimal": 59052
+    },
+    {
+      "icon_id": "309925",
+      "name": "mima",
+      "font_class": "mima",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "6512625",
+      "name": "账号",
+      "font_class": "zhanghao",
+      "unicode": "e678",
+      "unicode_decimal": 59000
+    }
+  ]
+}

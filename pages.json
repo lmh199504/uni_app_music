@@ -1,0 +1,52 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/index/index",
+			
+			"style": {
+				
+				"navigationBarTitleText": "首页"
+				// "titleNView": false,
+				// "enablePullDownRefresh":true
+				
+			}
+		}
+	    ,{
+            "path" : "pages/login/login",
+            "style" : {
+				"navigationBarTitleText": "登陆"
+			}
+        }
+        ,{
+            "path" : "pages/discDetail/discDetail",
+            "style" : {
+				"navigationBarTitleText": "歌单详情"
+			}
+        }
+        ,{
+            "path" : "pages/playing/playing",
+            "style" : {
+				"navigationBarTitleText": "正在播放"
+			}
+        }
+        ,{
+            "path" : "pages/singerDetail/singerDetail",
+            "style" : {
+				"navigationBarTitleText": "歌手详情"
+			}
+        }
+        ,{
+            "path" : "pages/topDetail/topDetail",
+            "style" : {
+				"navigationBarTitleText": "榜单详情"
+			}
+        }
+    ],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+		
+	}
+}

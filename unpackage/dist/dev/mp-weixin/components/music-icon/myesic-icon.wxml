@@ -1,0 +1,1 @@
+<view><view data-event-opts="{{[['tap',[['showPlaying',['$event']]]]]}}" class="{{[(true)?'music-icon':'',(showMusic)?'show':'',(isPlay)?'active':'']}}" bindtap="__e"><image src="../../static/images/music.png" mode></image></view></view>

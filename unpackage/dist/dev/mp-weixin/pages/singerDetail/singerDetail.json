@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "歌手详情",
+  "usingComponents": {
+    "music-icon": "/components/music-icon/myesic-icon"
+  }
+}

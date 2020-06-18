@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "首页",
+  "usingComponents": {
+    "uni-badge": "/components/uni-badge/uni-badge",
+    "chat": "/components/chat/index",
+    "find": "/components/find/index",
+    "tongxunlu": "/components/tongxunlu/index",
+    "mycenter": "/components/mycenter/index",
+    "music-icon": "/components/music-icon/myesic-icon"
+  }
+}

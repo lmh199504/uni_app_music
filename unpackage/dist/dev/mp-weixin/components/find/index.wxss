@@ -1,0 +1,42 @@
+
+.toplist.data-v-3ed6258e{
+	width: 100%;
+	height: 100%;
+}
+.toplist .list-item.data-v-3ed6258e{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient:horizontal;
+	-webkit-box-direction:normal;
+	-webkit-flex-direction:row;
+	        flex-direction:row;
+	padding: 10px;
+	margin: 10px;
+	background: #F7F7F7;
+	overflow: hidden;
+	height: 120px;
+	box-sizing: border-box;
+}
+.list-item .left.data-v-3ed6258e {
+	height: 100px;
+	width: 100px;
+}
+.list-item .left image.data-v-3ed6258e{
+	width: 100px;
+	height: 100px;
+}
+.list-item .right.data-v-3ed6258e{
+	width: 70%;
+	padding: 10px;
+}
+.song-item.data-v-3ed6258e{
+	width: 100%;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap; 
+	color: #8F8F94;
+	font-size: 12px;
+	line-height: 25px;
+}
+
